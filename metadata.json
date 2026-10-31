@@ -1,0 +1,6 @@
+{
+  "name": "ResQNow – Emergency Response & Assistance Platform",
+  "description": "AI-powered emergency response and assistance platform providing one-tap SOS, location-based support, real-time guidance, and emergency contacts.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
